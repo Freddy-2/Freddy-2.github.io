@@ -2884,7 +2884,7 @@ input, select, textarea {
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: darkkhaki;
 			}
 
 			.statistics li.style2 {
@@ -2901,6 +2901,18 @@ input, select, textarea {
 
 			.statistics li.style5 {
 				background-color: #8cc9f0;
+			}
+			.statistics li.style6 {
+				background-color: #efa8b0;
+			}
+			.statistics li.style7 {
+				background-color: crimson;
+			}
+			.statistics li.style8 {
+				background-color: salmon;
+			}
+			.statistics li.style9 {
+				background-color: blueviolet;
 			}
 
 			.statistics li strong, .statistics li b {
