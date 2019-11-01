@@ -37,6 +37,10 @@ ol, ul {
 	list-style: none;
 }
 
+.stattypic{
+	    width: 275px;
+    height: 200px;
+}
 blockquote, q {
 	quotes: none;
 }
@@ -3795,3 +3799,4 @@ input, select, textarea {
 			}
 
 		}
+
